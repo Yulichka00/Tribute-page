@@ -27,16 +27,18 @@ p {
 
 img {
     display: block;
+    margin: 0 auto;
+    
 }
 
 #img-div {
-    text-align: center;
+    border: 1px solid red;
 }
 
 #image {
+   
     max-width: 100%;
     height: auto;
-    
 }
 
 #img-caption {
